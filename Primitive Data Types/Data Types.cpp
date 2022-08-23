@@ -12,5 +12,6 @@ int main()
 	// True or False
 	bool isBoolean = true; 
 
+	getchar();
 	return 0;
 }
