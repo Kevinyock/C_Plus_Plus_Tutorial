@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 int main()
 {
@@ -11,6 +12,9 @@ int main()
 
 	// True or False
 	bool isBoolean = true; 
+
+	// Technically a String is a Dynamic Character Array 
+	string myString = "Hello";
 
 	getchar();
 	return 0;
