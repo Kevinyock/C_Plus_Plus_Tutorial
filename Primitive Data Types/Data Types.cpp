@@ -16,6 +16,11 @@ int main()
 	// Technically a String is a Dynamic Character Array 
 	string myString = "Hello";
 
+	// You get signed and unsigned integer
+	unsigned int32_t = 1;
+
+	signed int32_t = 1;
+
 	getchar();
 	return 0;
 }
